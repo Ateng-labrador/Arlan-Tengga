@@ -16,5 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           TIME_RANGE: all_time
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ->
+          
          
